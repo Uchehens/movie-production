@@ -1,0 +1,6 @@
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Core\bin\Debug\eCommerce.Core.dll
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Core\bin\Debug\eCommerce.Core.pdb
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Core\obj\Debug\eCommerce.Core.csproj.CoreCompileInputs.cache
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Core\obj\Debug\eCommerce.Core.dll
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Core\obj\Debug\eCommerce.Core.pdb
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Core\obj\Debug\eCommerce.Core.csprojAssemblyReference.cache

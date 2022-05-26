@@ -1,0 +1,12 @@
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Infrastructure\bin\Debug\eCommerce.Infrastructure.dll.config
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Infrastructure\bin\Debug\eCommerce.Infrastructure.dll
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Infrastructure\bin\Debug\eCommerce.Infrastructure.pdb
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Infrastructure\bin\Debug\eCommerce.Core.dll
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Infrastructure\bin\Debug\eCommerce.Core.pdb
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Infrastructure\obj\Debug\eCommerce.Infrastructure.csprojAssemblyReference.cache
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Infrastructure\obj\Debug\eCommerce.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Infrastructure\obj\Debug\eCommerce.Infrastructure.csproj.CopyComplete
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Infrastructure\obj\Debug\eCommerce.Infrastructure.dll
+D:\Algorithem\MovieProduction\eCommerce\eCommerce.Infrastructure\obj\Debug\eCommerce.Infrastructure.pdb
